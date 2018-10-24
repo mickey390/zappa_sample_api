@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "app_function": "sample.app",
+        "aws_region": "ap-northeast-1",
+        "profile_name": "zappa-user",
+        "project_name": "zappa_sample_api",
+        "runtime": "python3.6",
+        "s3_bucket": "zappa-uwsai5y5l",
+        "keep_warm": false,
+        "lambda_description": "Your Description",
+        "tags": {
+            "zappa": "Value"
+        }
+    }
+}
